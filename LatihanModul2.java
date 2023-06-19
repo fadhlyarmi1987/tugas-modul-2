@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class LatihanModul_2 {
+public class LatihanModul2 {
     public static void main(String[] args) {
         ArrayList<String> hewan = new ArrayList<>();
         hewan.add("Sapi");
